@@ -3,7 +3,7 @@
 
 <https://developer.nvidia.com/cuda-10.1-download-archive-base?target_os=Linux&target_arch=x86_64&target_distro=Ubuntu&target_version=1804&target_type=deblocal>
 
-![t](https://github.com/JiaChen-Lee/deeplearning/blob/master/cuda.png)
+![cuda](https://github.com/JiaChen-Lee/deeplearning/blob/master/cuda.png)
 该截图的上半部分为版本选择及不同安装方式的下载地址<br>
 下半部分为对应的安装命令
 
@@ -16,7 +16,7 @@
 ## 官方下载地址
 <https://developer.nvidia.com/rdp/cudnn-download><br>
 选择与已安装的cuda版本对应的cudnn
-![t](D:\install\cudnn.png)
+![cudnn](https://github.com/JiaChen-Lee/deeplearning/blob/master/cudnn.png)
 下载红框中的三个文件
 ## 官方安装教程
 <https://docs.nvidia.com/deeplearning/sdk/cudnn-install/index.html#installlinux-deb><br>
