@@ -3,7 +3,7 @@
 
 <https://developer.nvidia.com/cuda-10.1-download-archive-base?target_os=Linux&target_arch=x86_64&target_distro=Ubuntu&target_version=1804&target_type=deblocal>
 
-![t](D:\install\cuda.png)
+![t](https://github.com/JiaChen-Lee/deeplearning/blob/master/cuda.png)
 该截图的上半部分为版本选择及不同安装方式的下载地址<br>
 下半部分为对应的安装命令
 
